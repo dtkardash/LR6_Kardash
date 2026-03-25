@@ -1,0 +1,3 @@
+import os 
+mu_secret=os.environ['MY_SECRET']
+print(my_secret)
